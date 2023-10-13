@@ -42,12 +42,12 @@ local Rayfield = loadstring(game:HttpGet(RayfieldURL))()
 
 local Window = Rayfield:CreateWindow({
    Name = "Blade Ball",
-   LoadingTitle = "Allusive Scripts",
-   LoadingSubtitle = "by Burger",
+   LoadingTitle = "Inquisitor HUB",
+   LoadingSubtitle = "by Polar",
    ConfigurationSaving = {
       Enabled = false,
-      FolderName = "Allusive Scripts",
-      FileName = "Allusive Scripts"
+      FolderName = "Inquisitor Scripts",
+      FileName = "Inquisitor Scripts"
    },
    Discord = {
       Enabled = true,
@@ -56,13 +56,13 @@ local Window = Rayfield:CreateWindow({
    },
    KeySystem = true,
    KeySettings = {
-      Title = "Allusive Scripts",
+      Title = "Inquisitor HUB",
       Subtitle = "Key System",
       Note = "Join the discord (discord.gg/zvrK8df8Wj)",
-      FileName = "AllusiveKey",
+      FileName = "InquisitorKey",
       SaveKey = true,
       GrabKeyFromSite = false,
-      Key = "ZDSIOPHJQPIWEUASOPDIJ"
+      Key = "RIP"
    }
 })
 
